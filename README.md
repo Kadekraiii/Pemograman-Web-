@@ -1,2 +1,1 @@
-# Pemograman-Web-
-Rai Rieska Jandwarda (E1E119037)
+# Praktikum-web-HTML-CSS-
